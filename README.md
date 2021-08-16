@@ -11,5 +11,4 @@ Scriptin bazı kısımları (style.css ve script.js) alıntıdır. Üzerinde dü
 Ayrıca, logonun bazen kaybolma sorunu tarafımca düzeltilmiştir. Script bana ait değildir fakat hatalı kısımların düzenlemesini ben yaptım.
 
 Özel yapım scriptler ve Fivem Paketleri için iletişime geçebilirsiniz.
-Discord: 'yuksel.exe#1943
-Instagram: yuksel.exe
+Instagram: yukselexe
